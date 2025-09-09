@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Model Generator",
+  "description": "Generate model variations from a single image using text prompts, reference photos, or sketches for pose guidance.",
+  "requestFramePermissions": []
+}
